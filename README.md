@@ -4,3 +4,5 @@ This project is focused on classifying jobs as remote or non-remote based on job
 I uploaded the python file **"BERT_JOB_CLASSIFICATION_TRAIN.py"** which trains the BERT model and saves it. **"PREDICT_AND_TEST.ipynb"** provides the code for loading the model to predict on a test set. At last, the **"BERT_Model"** folder stores the model I use for the classification.
 
 **Note**: This approach is much more efficient and faster than other methods I tested (ChatGPT, Llama 2, etc.). It also does not require a very strong GPU such as the A100s. 
+
+Yongzhe Wang (Andrew)
